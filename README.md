@@ -1,5 +1,7 @@
 # 🕵️‍♂️🤖 Sistema de Criação de Posts para LinkedIn com Agentes de IA
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jvmorva/Google-Gemini-Agentes/blob/main/Gemini_Agentes.ipynb)
+
 Este projeto demonstra a criação de um sistema automatizado para gerar rascunhos de posts para o LinkedIn utilizando múltiplos agentes de IA. Cada agente possui uma função específica dentro do fluxo de trabalho, desde a busca por informações relevantes até a revisão final do conteúdo.
 
 ## 🔍 Visão Geral
